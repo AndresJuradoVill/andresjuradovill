@@ -17,6 +17,7 @@ Tengo experiencia participando y desarrollando proyectos de mediana escala, espe
 * 🌐 Desarrollo backend y aplicaciones web
 * 🔐 Interés fuerte en Seguridad Informática y Redes
 * 🐧 Administración y uso de sistemas Linux
+* 📲 Desarrollo de aplicaciones moviles (Android)
 
 Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en desarrollo como en infraestructura.
 
@@ -37,6 +38,7 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 * HTML
 * CSS
 * SQL
+* Kotlin
 
 ## Backend
 
