@@ -80,7 +80,7 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,tensorflow,keras" height="55"/>
+  <img src="https://skillicons.dev/icons?i=flask,tensorflow,keras" height="65"/>
 </p>
 
 ---
