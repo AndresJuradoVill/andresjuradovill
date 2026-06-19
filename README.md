@@ -25,7 +25,8 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_EXACTO&theme=highcontrast&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zerock22&theme=dracula)](https://git.io/streak-stats)
+
 ---
 
 # 💻 Tecnologías y herramientas
