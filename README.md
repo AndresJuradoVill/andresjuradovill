@@ -31,6 +31,13 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 
 # 💻 Tecnologías y herramientas
 
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,postgres,androidstudio,git,github,linux,vscode,idea" />
+
+</p>
+
 ## Lenguajes de programación / Lenguajes de marcado y estilos
 
 * Python
