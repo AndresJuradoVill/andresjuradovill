@@ -32,9 +32,6 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 # 💻 Tecnologías y herramientas
 
 ## Lenguajes de programación / Lenguajes de marcado y estilos
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,sql,kotlin" />
-</p>
 
 * Python  
 * Java  
@@ -42,6 +39,10 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 * CSS  
 * SQL  
 * Kotlin
+
+* <p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,sql,kotlin" />
+</p>
 
 ## Backend
 
@@ -100,6 +101,8 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 📧 [andresmauri90@hotmail.com](mailto:andresmauri90@hotmail.com)
 
 💼 LinkedIn: https://www.linkedin.com/feed/
+
+📞 Telefono: 3052212818
 
 ---
 
