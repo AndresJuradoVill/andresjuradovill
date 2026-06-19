@@ -31,30 +31,39 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 
 # 💻 Tecnologías y herramientas
 
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,postgres,androidstudio,git,github,linux,vscode,idea" />
-
-</p>
-
 ## Lenguajes de programación / Lenguajes de marcado y estilos
 
-* Python
-* Java
-* HTML
-* CSS
-* SQL
-* Kotlin
+## 💻 Lenguajes de Programación
 
-## Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,c" />
+</p>
 
-* Spring Boot
+---
 
-## Bases de datos
+## 🛠️ Tecnologías y Herramientas
 
-* PostgreSQL
-* MySQL
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,vscode,idea,androidstudio,maven,gradle,docker" />
+</p>
+
+---
+
+## 🧠 Backend, IA y Desarrollo
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,tensorflow,keras" />
+</p>
+
+---
+
+## ☁️ Cloud y Servicios
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cloudflare" />
+</p>
+
+Clever Cloud • MVC • REST API • CRUD • HTTP GET/POST • Automatización • Bases de Datos
 
 ## Sistemas Operativos
 
