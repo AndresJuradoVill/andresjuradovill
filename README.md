@@ -37,13 +37,9 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 * Java  
 * HTML  
 * CSS  
-* SQL  
+* SQL (PostgreSQL / MySQL)    
 * Kotlin
-
-* <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,sql,kotlin" />
-</p>
-
+* 
 ## Backend
 
 * Spring Boot
@@ -70,6 +66,34 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 * Arquitectura de Software
 
 ---
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,c" />
+</p>
+
+---
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,vscode,idea,androidstudio,maven,gradle,docker" />
+</p>
+
+---
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,tensorflow,keras" />
+</p>
+
+---
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cloudflare" />
+</p>
+
+Clever Cloud • MVC • REST API • CRUD • HTTP GET/POST • Automatización • Bases de Datos
 
 # 📌 Experiencia destacada
 
